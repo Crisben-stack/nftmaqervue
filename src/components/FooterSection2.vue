@@ -1,0 +1,107 @@
+/* eslint-disable no-unused-vars */
+<template>
+  <div class="container-fluid" id="footerback">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/3.png" alt=""> <span>BTC</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+      aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse show" id="navbarText">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/4.png" onmouseover="bigImg(this)" onmouseout="normalImg(this)" width="60" height="32" alt="">
+            <span>USDT</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/5.png" alt="">
+            <span>ETH</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/6.png" alt="">
+            <span>USDC</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/8.png" alt="">
+            <span>DCN</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/7.png" alt="">
+            <span>BNB</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/2.png" alt="">
+            <span>DBC</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/1.png" alt="">
+            <span>EGG</span>
+          </a>
+        </li>
+        <li class="nav-item ml-5">
+          <a href="" class="nav-link ml-5">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/footer/Group 61.svg" alt="">
+          </a>
+        </li>
+      </ul>
+      <span class="navbar-text">
+        <ul class="nav justify-content-end">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">
+              <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/footer/reseaux_sociaux/Path 37.svg"
+                alt="">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/footer/reseaux_sociaux/Path 38.svg"
+                alt="">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/footer/reseaux_sociaux/Path 40.svg"
+                alt="">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link">
+              <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/footer/reseaux_sociaux/Path 39.svg"
+                alt="">
+            </a>
+          </li>
+        </ul>
+      </span>
+    </div>
+  </nav>
+</div>
+
+</template>
+
+<script>
+export default {
+    name : 'FooterSection2'
+
+}    
+</script>
+
+<style>
+#footerback{
+  background-color: f7f7fa;
+}
+</style>

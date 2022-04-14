@@ -1,0 +1,24 @@
+<template>
+    <div class="container text-center mt-5">
+  <h3>Your opinion is important</h3>
+  <p>How do you fil about the page or service</p>
+    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/opinion/Group 67.svg" class="mr-1" alt="">
+    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/opinion/Group 72.svg" class="mr-1" alt="">
+    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/opinion/Group 39.svg" class="mr-1" alt="">
+    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/opinion/Group 44.svg" class="mr-1" alt="">
+    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/opinion/Group 27.svg" alt="">
+</div>
+
+</template>
+
+<script>
+export default {
+    // eslint-disable-next-line vue/multi-word-component-names
+    name : 'Opinion'
+
+}
+</script>
+
+<style>
+
+</style>

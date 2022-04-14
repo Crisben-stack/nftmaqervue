@@ -1,0 +1,143 @@
+<template>
+
+    <div class="style">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+  <a class="navbar-brand" href="#">
+    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/QryptoBank_Logotype_LogoMark.png"
+      width="150px" alt="">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavQrypto"
+    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavQrypto">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#"> <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#"><strong>Q</strong>ryptobank</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#"><strong>Q</strong>redit</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href=""><strong>Q</strong>ryptex</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href=""><strong>Q</strong>lubdeal</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="">AirDrop</a>
+      </li>
+      <li class="nav-item ml-5">
+        <a class="nav-link ml-5">Pending Switzerland's regulation
+          <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/Drapeau_suisse.svg" width="12px"
+            alt="">
+        </a>
+      </li>
+    </ul>
+    <span class="navbar-text">
+      <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Connect</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/moon.svg" alt="">
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/apple-logo.svg" alt="">
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/playstore.svg" alt="">
+          </a>
+        </li>
+      </ul>
+    </span>
+  </div>
+</nav>
+
+<div class="jumbotron jumbotron-fluid" id="image">
+  <div class="container text-center">
+    <h1 class="mb-3">The Place to create manage your <span class="text-primary">NFT Collection</span> </h1>
+    <a href="#" class="btn btn-primary btn-lg" id="create_button" role="button">Create your account for free</a>
+  </div>
+  <div class="mt-5">
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/3.png" class="rounded-circle" width="60" alt="">
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/1.png" class="rounded-circle" width="60"  alt="">
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/2_copy.png" class="rounded-circle" width="60" alt="">
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/7.png" class="rounded-circle" width="60" alt="">
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/4.png" class="rounded-circle" width="60" alt="">
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/6.png" class="rounded-circle" width="60" alt="">
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">
+          <img src="../assets/AssetsNFTmaQer/images/nfts/5.png" class="rounded-circle" width="60" alt="">
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    </div>
+
+</template>
+
+<script>
+export default {
+    name : 'HeaderNav'
+}
+</script>
+
+<style>
+    #image {
+        background-image: url('../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/bg_QryptoBank.jpg');
+        background-attachment: fixed;
+        margin: 0;
+        max-block-size: 50%;
+        height: 400px;
+        margin: auto;
+    }
+
+    #create_button {
+    border-radius: 50px;
+    text-transform: capitalize;
+    box-shadow: 10px 5px 5px #2EBAFB;
+}
+
+  .style{
+      padding-top: 3em;
+      
+  }
+
+</style>

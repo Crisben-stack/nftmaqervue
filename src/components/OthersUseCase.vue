@@ -1,0 +1,58 @@
+<template>
+  <div class="container mt-5">
+  <div class="row">
+    <div class="col col-lg-5 col-md-12">
+      <h3>Others use case in the crypto World</h3>
+      <p>Take advantge of our samrt contract accordinng to your need and manage your assets as you desire. </p>
+    </div>
+    <div class="col col-md-0"></div>
+  </div>
+  <div class="row">
+    <div class="col-2">
+      <img
+        src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Use-Cases_in_the_QryptoWorld_White/QryptoBank 2.gif"
+        class="img-thumbnail" alt="...">
+    </div>
+    <div class="col-2">
+      <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Use-Cases_in_the_QryptoWorld_White/AirDrop 6.gif"
+        class="img-thumbnail" alt="...">
+    </div>
+    <div class="col-2">
+      <img
+        src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Use-Cases_in_the_QryptoWorld_White/Nft Maker 2.gif"
+        class="img-thumbnail" alt="...">
+    </div>
+    <div class="col-2">
+      <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Use-Cases_in_the_QryptoWorld_White/Credit 2.gif"
+        class="img-thumbnail" alt="...">
+        <p class="text-center pt-2">
+          <img src="../assets/AssetsNFTmaQer/new/logo_text_qredit.svg" alt="">
+        </p>
+    </div>
+    <div class="col-2">
+      <img
+        src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Use-Cases_in_the_QryptoWorld_White/QlubDeal Gif_1.gif"
+        class="img-thumbnail" alt="...">
+    </div>
+    <div class="col-2">
+      <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Use-Cases_in_the_QryptoWorld_White/Cryptex 2.gif"
+        class="img-thumbnail" alt="...">
+        <p class="text-center pt-2">
+          <img src="../assets/AssetsNFTmaQer/new/logo_text_qryptex.svg" alt="">
+        </p>
+    </div>
+  </div>
+</div>
+
+</template>
+
+<script>
+export default {
+    name : 'OthersUseCase'
+
+}
+</script>
+
+<style>
+
+</style>
