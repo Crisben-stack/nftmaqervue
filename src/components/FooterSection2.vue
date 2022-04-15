@@ -9,11 +9,11 @@
       aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse show" id="navbarText">
+    <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
           <a href="" class="nav-link">
-            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/4.png" onmouseover="bigImg(this)" onmouseout="normalImg(this)" width="60" height="32" alt="">
+            <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/cryptos/4.png" width="60" height="32" alt="">
             <span>USDT</span>
           </a>
         </li>
@@ -101,7 +101,9 @@ export default {
 </script>
 
 <style>
+
 #footerback{
   background-color: f7f7fa;
 }
+
 </style>

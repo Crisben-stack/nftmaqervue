@@ -2,26 +2,23 @@
   <div class="jumbotron jumbotron-fluid" id="trustedback">
   <div class="container">
     <div class="row">
-      <div class="col-xl-12 col-md-6 d-md-end">
+      <div class="col-xl-12 col-md-6">
           <h4 class="text-muted">Trusted Companis</h4>
-      <div class="d-flex flex-nowrap bd-highlight">
+          <div class="d-flex flex-nowrap bd-highlight">
             <div class="p-2 bd-highlight">
                 <img src="../assets/AssetsNFTmaQer/new/rarible.png" width="120px" alt="">
             </div>
             <div class="p-2 bd-highlight">
                 <img src="../assets/AssetsNFTmaQer/new/fnd.svg" width="100px" alt="">
             </div>
-        </div>
-        <div class="col-xl-12 col-md-4">
-          <div class="p-2 bd-highlight">
-              <img src="../assets/AssetsNFTmaQer/new/openSea.png" width="120px" alt="">    
+            <div class="p-2 bd-highlight">
+                <img src="../assets/AssetsNFTmaQer/new/openSea.png" width="120px" alt="">    
+            </div>
+            <div class="p-2 bd-highlight">
+                <img src="../assets/AssetsNFTmaQer/new/kyhclu5quebqm4sit0he.svg" width="" alt="">
+            </div>
           </div>
-          <div class="p-2 bd-highlight">
-              <img src="../assets/AssetsNFTmaQer/new/kyhclu5quebqm4sit0he.svg" width="" alt="">
-          </div>
-        </div>
-      </div>      
-      
+      </div>
 
       <div class="row mt-2">
         <div class="col-xs-12">

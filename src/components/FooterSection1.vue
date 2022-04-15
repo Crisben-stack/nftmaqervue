@@ -54,7 +54,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-sm-6">
-            <div class="card border-0" style="width: 18rem;">
+            <div class="card border-0" style="width: 21rem;">
               <div class="card-body">
                 <h5 class="card-title">About</h5>
                 <p class="card-text">
@@ -65,7 +65,13 @@
                     control and security standards of the EME. Every user benefits from the guarantees linked to the scheme’s network on
                     electronic money flows.
                 </p>
+                <div >
+                    <a class="nav-link" id="width">Pending Switzerland's regulation
+                    <img src="../assets/AssetsNFTmaQer/Assets_des_sections_pareille/Entete/Drapeau_suisse.svg" width="12px"
+                         alt="">
+                    </a>
                 <a href="#" id="read" class="btn btn-outline-primary btn-block">Read our whitePaper</a>
+                </div>
               </div>
             </div>
         </div>
@@ -82,7 +88,8 @@ export default {
 </script>
 
 <style>
-a{
+
+.nav-link {
   color: black;
 }
 
